@@ -6,14 +6,14 @@ h1 {
     /* line-height: 0px; */
     /* letter-spacing: 50px; */
     word-spacing: 50px;
-    /* text-align: right; */
-    text-shadow: 2px 2px 0px red, -2px -2px 0px cyan;
+    text-align: right;
+    /* text-shadow: 2px 2px 0px red, -2px -2px 0px cyan; */
 }
 
 h1::first-letter {
     color: red;
 }
 
-h1::first-line{
+h1::first-line {
     color: wheat;
 }

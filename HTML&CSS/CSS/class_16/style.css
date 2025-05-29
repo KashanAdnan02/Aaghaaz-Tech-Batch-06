@@ -1,0 +1,29 @@
+h1 {
+    font-family: sans-serif;
+    text-shadow: -2px -0px 5px rgba(0, 0, 0, 0.3);
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p::first-line {
+    color: black;
+    text-transform: uppercase;
+}
+
+
+span {
+    color: red;
+}
+
+.box {
+    width: 400px;
+    height: 200px;
+    background-color: rebeccapurple;
+    box-shadow: -2px -0px 5px red;
+}
+
+p:last-child{
+    color: white;
+}
