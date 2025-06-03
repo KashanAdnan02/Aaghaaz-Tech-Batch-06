@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+.box {
+  background-color: #fff;
+  border: 3px solid #4CAF50;
+  padding: 20px;
+  margin: 30px auto;
+  width: 60%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.explanation {
+  background-color: #e0f7fa;
+  border: 2px dashed #00796b;
+  padding: 15px;
+  margin-top: 20px;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
